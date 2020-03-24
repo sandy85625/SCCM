@@ -7,3 +7,4 @@ Node implementing the following functionalities:
 - Publish velocity commands
 - Reset simulation
 for training a deep reinforcement learning (DRL) algorithm for making an unmanned aerial vehicle landing on a visual marker.
+- Source is in branch src repository
